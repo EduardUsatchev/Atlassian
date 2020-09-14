@@ -1,4 +1,0 @@
-Jira local and LDAP groups change,include permissions
-
-More information:
-https://confluence.atlassian.com/jirakb/how-to-rename-a-group-in-jira-968662365.html
